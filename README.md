@@ -9,8 +9,12 @@
 
 - 🤯 I’m currently working on [exercise tracking](https://exernotion-project.vercel.app/activities).
 
+- 👾 [My Portfolio](https://portfolio-bright-42.vercel.app).
+
 
 <p align="right"> <h3>Biography :</h3> </p>
+
+
 
 <p><img align="right" src="https://github.com/brightpcp/Pokedex-react/blob/main/public/images/Image%20from%20iOS.gif" alt="adam-pw" /></p>
 
